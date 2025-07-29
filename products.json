@@ -1,5 +1,5 @@
 [{'id':1, 'name':'JCL Blender', 'model':'JBL-300PL', 'price':'1800', 'image':'assets/products/blender_blue.png'},
- {'id':2, 'name':'JCL Blender', 'model':'JBL-304PL', 'price':'1900', 'image':'assets/products/blender_green.png'} },
+ {'id':2, 'name':'JCL Blender', 'model':'JBL-304PL', 'price':'1900', 'image':'assets/products/blender_green.png'},
  {'id':3, 'name':'JCL Blender', 'model':'JBL-308PL', 'price':'2100', 'image':'assets/products/blender_white.png'},
  {'id':4, 'name':'JCL Gas Stove', 'type':'(composite)', 'model':'JG-022', 'price':'2000', 'image':'assets/products/stove_composite.png'},
  {'id':5, 'name':'JCL Gas Stove', 'type':'(steel)', 'model':'JG-022', 'price':'2000', 'image':'assets/products/stove_steel.png'},
